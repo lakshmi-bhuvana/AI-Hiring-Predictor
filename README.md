@@ -103,7 +103,7 @@ A custom function is built to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Hiring-Predictor.git
+git clone https://github.com/lakshmi-bhuvana/AI-Hiring-Predictor.git
 cd AI-Hiring-Predictor
 ```
 
